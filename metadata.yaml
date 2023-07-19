@@ -1,0 +1,29 @@
+_repo: The-legend-of-Perseus-Volume-II-of-3-b-The-life-token_71107
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hartland, Edwin Sidney
+    alias: Hartland, E. Sidney (Edwin Sidney)
+    birthdate: 1848
+    deathdate: 1927
+    gutenberg_agent_id: '26617'
+    url: http://www.gutenberg.org/2009/agents/26617
+    wikipedia: https://en.wikipedia.org/wiki/Edwin_Sidney_Hartland
+description: ''
+gutenberg_issued: '2023-07-03'
+identifiers:
+  gutenberg: '71107'
+language: en
+pgterms:marc904: https://archive.org/details/legendofperseuss02hart
+pgterms:marc905: 20230630100826hartland
+pgterms:marc906: '1895'
+pgterms:marc907: gb
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aUnited Kingdom :$bDavid Nutt in the Strand, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The legend of Perseus, Volume II (of 3) : $b The life-token'
+url: http://www.gutenberg.org/ebooks/71107
